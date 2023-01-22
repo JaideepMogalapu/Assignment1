@@ -2,12 +2,8 @@
 # Video Link : 
 # Author Name : 
 Mogalapu Gideon Jaideep Sudarshan
-# Course      : 
-CS 5710
-# CRN            : 
-21627
-# Class       : 
-Machine Learning Assignment
+# Course and CRN    : 
+CS 5710 and 21627
 # Description : 
                 This Project is about the basic understanding of python libraries and functions
                 In this project we have used math, statistics funtions like max, min , average
