@@ -1,10 +1,14 @@
 # Machine Learning Assignment 1
 # Video Link : 
-**Author Name **: Mogalapu Gideon Jaideep Sudarshan
-**Course**      : CS 5710
-**CRN**        : 21627
-**Class**       : Machine Learning Assignment
-**Description** : 
+# Author Name : 
+Mogalapu Gideon Jaideep Sudarshan
+# Course      : 
+CS 5710
+# CRN            : 
+21627
+# Class       : 
+Machine Learning Assignment
+# Description : 
                 This Project is about the basic understanding of python libraries and functions
                 In this project we have used math, statistics funtions like max, min , average
                 created lists, dictionaries, tuples and their functions. Also String formatting
