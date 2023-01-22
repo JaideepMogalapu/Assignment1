@@ -1,5 +1,6 @@
 # Machine Learning Assignment 1
 # Video Link : 
+https://drive.google.com/drive/folders/1e_ZKv8C5lChsuvw4G3wA-rF1ydfCvgjl?usp=share_link
 # Author Name : 
 Mogalapu Gideon Jaideep Sudarshan
 # Course and CRN    : 
